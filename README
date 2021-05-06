@@ -1,0 +1,19 @@
+Programming Exercises 1st year
+
+Repository containing exercises on our school.
+This should be beginner friendly as these are the basics of programming.
+
+--------------------------------------------------------------------------------------------
+
+Compiling Instructions:
+Since we use C, use gcc to compile the code then execute.
+
+--------------------------------------------------------------------------------------------
+
+Issues and Pull Requests:
+Any bugs or mistakes? Feel free to open an issue or pull request to fix it.
+
+--------------------------------------------------------------------------------------------
+
+Folders/Activities (with PDF)
+Exer1 - Loops
